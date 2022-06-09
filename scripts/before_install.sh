@@ -1,4 +1,5 @@
-#!/usr/bin/env bash
+#!/bin/bash
+set -x
 
 sudo apt-get update
 #sudo apt-get install -y python3 python-dev python3-pip ffmpeg supervisor nginx 
