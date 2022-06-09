@@ -13,5 +13,5 @@ python manage.py migrate
 chown -R ubuntu:ubuntu /home/ubuntu
 
 # Restart services
-sudo service supervisor restart
+#sudo service supervisor restart
 sudo service nginx restart
